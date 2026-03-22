@@ -1,0 +1,12 @@
+# Core functionality
+openai
+chromadb
+tiktoken
+python-dotenv
+streamlit
+langchain
+langchain-community
+langchain-openai
+pydantic
+pydantic-settings
+gitpython

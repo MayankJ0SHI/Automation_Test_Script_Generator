@@ -1,0 +1,8 @@
+1. Wait until the username field is visible.
+2. Set synthetic username (e.g., randomly choose from ["akshat", "mayank", "rahul"]).
+3. Wait until the password field is editable.
+4. Enter static password "Test@123".
+5. Wait until the "Login" button is clickable.
+6. Click on the "Login" button.
+7. Wait until the homepage/dashboard text "Welcome" is visible.
+8. Validate that the user is redirected to the dashboard by checking text "Welcome, <username>".

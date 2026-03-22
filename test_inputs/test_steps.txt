@@ -1,0 +1,15 @@
+Open browser and hit the IPAS URL.
+Enter username and password.
+Navigate to Dashboard
+Insert the filter on File ID and search the ID.
+Cilck on the blue hyperlink of File ID
+Now click on the folder icon and select the "Bibliographic Data" under the edit section.
+Click on the "Title and Abstract" tab and click on the "edit" button then fill the details in the following fields.
+Now click on the "Save" button in the "Title and Abstract" section.
+Click on the "Applicant and Inventor" tab and click on the "edit" button in the action column and provide the following details and click on the "Save" button.
+Click on the "Applicant" checkbox in the "Applicant and Inventor" section.
+Click on the "Drawings" tab.
+Now select the 4 drawings by clicking on the "choose" button.
+Now click on the "Save" button.
+Now click on the "Certify" button.
+Now click on the "Yes" button.

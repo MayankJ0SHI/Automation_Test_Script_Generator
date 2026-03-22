@@ -1,0 +1,8 @@
+1. Wait until login page loads.
+2. Check that the "Login" button is initially disabled.
+3. Enter any synthetic username like "Test123".
+4. Check again — the login button should still be disabled.
+5. Enter password "pass123".
+6. Validate that the "Login" button is now enabled.
+7. Click the login button.
+8. Wait for navigation to dashboard.

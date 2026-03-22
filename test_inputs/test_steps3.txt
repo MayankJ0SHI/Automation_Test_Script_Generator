@@ -1,0 +1,7 @@
+1. Wait for the username field to be visible.
+2. Set username field to any valid synthetic name, e.g., "test_user".
+3. Leave password field blank.
+4. Wait for the login button to be clickable.
+5. Click on the login button.
+6. Wait for error message to appear.
+7. Validate that the error text "Password is required" is displayed.

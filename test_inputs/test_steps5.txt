@@ -1,0 +1,6 @@
+1. Wait until the login form is fully visible.
+2. Enter synthetic username: randomly select one like ["fakeUser", "wrongUser"].
+3. Enter synthetic password like ["wrongPass123", "123fake"].
+4. Click on "Login".
+5. Wait for error alert.
+6. Validate error text: "Invalid username or password".
